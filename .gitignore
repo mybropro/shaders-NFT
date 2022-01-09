@@ -1,0 +1,5 @@
+node_modules/
+example_shaders/
+build/
+secrets.json
+package-lock.json
